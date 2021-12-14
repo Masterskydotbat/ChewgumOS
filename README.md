@@ -75,9 +75,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
 The first serious project I'm going to develop further.
 This is ChewgumOS. Command prompt operation system.
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Built With
 
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
