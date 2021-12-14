@@ -1,0 +1,16 @@
+D:\csharp\second\bin\Debug\net5.0\second.exe
+D:\csharp\second\bin\Debug\net5.0\second.deps.json
+D:\csharp\second\bin\Debug\net5.0\second.runtimeconfig.json
+D:\csharp\second\bin\Debug\net5.0\second.runtimeconfig.dev.json
+D:\csharp\second\bin\Debug\net5.0\second.dll
+D:\csharp\second\bin\Debug\net5.0\ref\second.dll
+D:\csharp\second\bin\Debug\net5.0\second.pdb
+D:\csharp\second\obj\Debug\net5.0\second.csproj.AssemblyReference.cache
+D:\csharp\second\obj\Debug\net5.0\second.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\second\obj\Debug\net5.0\second.AssemblyInfoInputs.cache
+D:\csharp\second\obj\Debug\net5.0\second.AssemblyInfo.cs
+D:\csharp\second\obj\Debug\net5.0\second.csproj.CoreCompileInputs.cache
+D:\csharp\second\obj\Debug\net5.0\second.dll
+D:\csharp\second\obj\Debug\net5.0\ref\second.dll
+D:\csharp\second\obj\Debug\net5.0\second.pdb
+D:\csharp\second\obj\Debug\net5.0\second.genruntimeconfig.cache
