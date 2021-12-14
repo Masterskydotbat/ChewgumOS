@@ -56,7 +56,7 @@
       </ul>
     </li>
     <li>
-      <a href="#howto">How to open in vscode</a>
+      <a href="#how-to-open-in-vscode">How to open in vscode</a>
       <ul>
       </ul>
     </li>
