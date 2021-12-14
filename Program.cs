@@ -8,7 +8,7 @@ namespace second
         static void Main()  {
 
             string a = "12345";
-            System.Console.WriteLine("Введите пароль");
+            System.Console.WriteLine("Password:");
             if(Console.ReadLine() == a) {
             bool isLoggedIn = true;
                 if(isLoggedIn){
