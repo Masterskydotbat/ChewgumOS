@@ -108,8 +108,8 @@ You can just download the files and add in vscode root folder
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-* [Open .exe file and input the password "12345"]
-* [Select an action]
+* Open .exe file and input the password "12345"
+* Select an action
 
 
 
