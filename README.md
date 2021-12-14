@@ -31,8 +31,6 @@
 <h3 align="center">ChewgumOS</h3>
 
   <p align="center">
-    The first serious project I'm going to develop further.
-    This is ChewgumOS. Command prompt operation system.
     <br />
     <a href="https://github.com/Masterskydotbat/ChewgumOS"><strong>Explore the docs »</strong></a>
     <br />
@@ -77,15 +75,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
-
+The first serious project I'm going to develop further.
+This is ChewgumOS. Command prompt operation system.
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 ### Built With
 
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
