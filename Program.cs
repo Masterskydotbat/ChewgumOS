@@ -29,6 +29,7 @@ namespace second
             int i2 = Convert.ToInt32(Console.ReadLine());
             int i3 = i1 + i2;
             System.Console.WriteLine("{0} is the answer ", i3);
+            Console.ReadLine();
             
         }
         else if(i == "subtr") {
@@ -39,6 +40,7 @@ namespace second
                  int imin2 = Convert.ToInt32(Console.ReadLine());
                  int imin3 = imin1 - imin2;
                  System.Console.WriteLine("{0} is the answer ", imin3);
+                 Console.ReadLine();
             
         }
         else if(i == "divide") {
@@ -49,6 +51,7 @@ namespace second
                  int irazd2 = Convert.ToInt32(Console.ReadLine());
                  int irazd3 = irazd1 / irazd2;
                  System.Console.Write("{0} is the answer ", irazd3);
+                 Console.ReadLine();
             
         }
         else if(i == "mult") {
@@ -59,6 +62,7 @@ namespace second
                  int iumn2 = Convert.ToInt32(Console.ReadLine());
                  int iumn3 = iumn1 * iumn2;
                  System.Console.Write("{0} is the answer ", iumn3);
+                 Console.ReadLine();
             
         }
             else {
@@ -83,6 +87,7 @@ namespace second
             else {
                 
                 System.Console.WriteLine("попробуйте еще раз");
+                return;
 
 
             }
