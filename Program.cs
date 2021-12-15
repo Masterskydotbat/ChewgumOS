@@ -12,16 +12,16 @@ namespace second
             if(Console.ReadLine() == a) {
             bool isLoggedIn = true;
                 if(isLoggedIn){
-                    System.Console.WriteLine("Welcome to ChewgumOs");
+                    System.Console.WriteLine("Welcome to ChewgumOS");
                     System.Console.WriteLine("Available actions:");
                     System.Console.WriteLine("calc");
                     System.Console.WriteLine("notepad");
                     System.Console.WriteLine("Select the action you want to take: ");
                     string aboba = Console.ReadLine();
                     if(aboba == "calc") {
-                        System.Console.Write("Enter action(add/subtract/divide/mult): ");
+                        System.Console.Write("Enter action(add/subtr/divide/mult): ");
         string i = Convert.ToString(System.Console.ReadLine());
-        if(i == "plus") {
+        if(i == "add") {
             System.Console.WriteLine("Ok, продолжаем. Выполняется сложение.");
             System.Console.Write("Enter the first term (INTEGER NUMBERS ONLY): ");
             int i1 = Convert.ToInt32(Console.ReadLine());
@@ -31,7 +31,7 @@ namespace second
             System.Console.WriteLine("{0} is the answer ", i3);
             
         }
-        else if(i == "minus") {
+        else if(i == "subtr") {
                 System.Console.WriteLine("Ok, let's continue. Subtraction is performed.");
                 System.Console.Write("Enter decrement (INTEGER NUMBERS ONLY):");
                  int imin1 = Convert.ToInt32(Console.ReadLine());
@@ -41,7 +41,7 @@ namespace second
                  System.Console.WriteLine("{0} is the answer ", imin3);
             
         }
-        else if(i == "razd") {
+        else if(i == "divide") {
                 System.Console.WriteLine("Ok, let's continue. We carry out division.");
                 System.Console.Write("Enter the dividend (INTEGER NUMBERS ONLY):");
                  int irazd1 = Convert.ToInt32(Console.ReadLine());
@@ -51,7 +51,7 @@ namespace second
                  System.Console.Write("{0} is the answer ", irazd3);
             
         }
-        else if(i == "umn") {
+        else if(i == "mult") {
                 System.Console.WriteLine("Ok, let's continue. We carrying out multiplication.");
                 System.Console.Write("Enter the first factor (INTEGER NUMBERS ONLY): ");
                  int iumn1 = Convert.ToInt32(Console.ReadLine());
